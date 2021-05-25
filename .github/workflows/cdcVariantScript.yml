@@ -1,7 +1,7 @@
 name: scraper-cdc-variant-dashboard
 
 on:
-  workflow-dispatch:
+  workflow_dispatch:
   schedule:
     - cron: '30 12 * * 2,4' # runs at 12:30 UTC Tuesday & Thursday
 
