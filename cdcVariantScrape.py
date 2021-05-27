@@ -1,4 +1,3 @@
-#! C:\Users\anesta\.virtualenvs\Verywell_Covid_Variant_Viz-SnP8VGBw\Scripts\python.exe
 from tableauscraper import TableauScraper as TS
 import pandas as pd
 
