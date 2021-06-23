@@ -9,7 +9,7 @@ import pandas as pd
 
 # rawCDCDF = ws.data
 
-rawCDCDF = pd.read_csv("./3-Map US Regions.csv")
+rawCDCDF = pd.read_csv("./3-Map US Regions.csv", header=0)
 
 filteredCDCDF = rawCDCDF.loc[rawCDCDF['Lineage Bin'] == "VOC"].reset_index()
 

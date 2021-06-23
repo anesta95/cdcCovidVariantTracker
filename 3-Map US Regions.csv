@@ -1,270 +1,265 @@
-ï»¿Lineage Bin,Representative State1,State,Variant,95CI,LT_10msg,PICI_value,Share_pct,Hhs Region,Nowcast_msg,Share
-Other,California,,Other,3.6-9.0%,,95%CI,5.70%,9,,0.057365008
-Other,Georgia,,Other,3.7-8.0%,,95%CI,5.40%,4,,0.05425081
-Other,Indiana,,Other,2.0-4.6%,,95%CI,3.10%,5,,0.030789346
-Other,Maine,,Other,4.0-9.0%,,95%CI,6.00%,1,,0.06025169
-Other,Nebraska,,Other,0.3-6.3%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,1.50%,7,,0.014694913
-Other,New York,,Other,0.6-29.1%,,95%CI,4.60%,2,,0.045609333
-Other,Texas,,Other,5.0-10.5%,,95%CI,7.30%,6,,0.073016949
-Other,Virginia,,Other,3.2-6.1%,,95%CI,4.40%,3,,0.044212136
-Other,Washington,,Other,2.0-20.2%,,95%CI,6.60%,10,,0.066184886
-Other,Wyoming,,Other,1.2-17.5%,,95%CI,4.80%,8,,0.047739189
-Top,California,,B.1,1.3-5.9%,,95%CI,2.80%,9,,0.027520828
-Top,California,,B.1.1.519,0.4-2.9%,,95%CI,1.00%,9,,0.010350414
-Top,California,,B.1.2,0.1-0.4%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.20%,9,,0.001957946
-Top,California,,B.1.526.2,0.5-5.1%,,95%CI,1.60%,9,,0.015905226
-Top,Georgia,,B.1,0.6-1.7%,,95%CI,1.00%,4,,0.009927784
-Top,Georgia,,B.1.1.519,0.2-0.8%,,95%CI,0.40%,4,,0.004170634
-Top,Georgia,,B.1.2,0.0-0.5%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.10%,4,,0.001110903
-Top,Georgia,,B.1.526.2,0.9-3.9%,,95%CI,1.90%,4,,0.018853499
-Top,Indiana,,B.1,0.5-2.2%,,95%CI,1.10%,5,,0.010519546
-Top,Indiana,,B.1.1.519,0.1-0.8%,,95%CI,0.30%,5,,0.00314008
-Top,Indiana,,B.1.2,0.0-0.2%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.10%,5,,0.000571135
-Top,Indiana,,B.1.526.2,0.9-3.1%,,95%CI,1.70%,5,,0.016551703
-Top,Maine,,B.1,0.4-1.8%,,95%CI,0.90%,1,,0.00882477
-Top,Maine,,B.1.1.519,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,1,,0
-Top,Maine,,B.1.2,0.1-1.5%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.40%,1,,0.004244428
-Top,Maine,,B.1.526.2,6.2-17.5%,,95%CI,10.60%,1,,0.105654925
-Top,Nebraska,,B.1,0.0-2.6%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.30%,7,,0.002653957
-Top,Nebraska,,B.1.1.519,0.2-3.5%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.90%,7,,0.008631095
-Top,Nebraska,,B.1.2,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,7,,0
-Top,Nebraska,,B.1.526.2,0.0-2.6%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.30%,7,,0.002653957
-Top,New York,,B.1,0.3-9.6%,,95%CI,1.80%,2,,0.017637081
-Top,New York,,B.1.1.519,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,2,,0
-Top,New York,,B.1.2,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,2,,0
-Top,New York,,B.1.526.2,1.6-30.7%,,95%CI,7.90%,2,,0.079070054
-Top,Texas,,B.1,1.3-5.7%,,95%CI,2.70%,6,,0.02713093
-Top,Texas,,B.1.1.519,0.2-1.7%,,95%CI,0.60%,6,,0.005877206
-Top,Texas,,B.1.2,0.0-0.1%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,6,,0.000470314
-Top,Texas,,B.1.526.2,0.3-10.7%,,95%CI,1.90%,6,,0.018536201
-Top,Virginia,,B.1,1.0-2.7%,,95%CI,1.60%,3,,0.016272323
-Top,Virginia,,B.1.1.519,0.1-0.6%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.20%,3,,0.002123385
-Top,Virginia,,B.1.2,0.0-1.7%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.10%,3,,0.001144279
-Top,Virginia,,B.1.526.2,1.7-7.0%,,95%CI,3.50%,3,,0.034577031
-Top,Washington,,B.1,0.3-4.1%,,95%CI,1.10%,10,,0.010522046
-Top,Washington,,B.1.1.519,1.1-36.5%,,95%CI,7.30%,10,,0.072793134
-Top,Washington,,B.1.2,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,10,,0
-Top,Washington,,B.1.526.2,0.2-5.8%,,95%CI,1.10%,10,,0.011273891
-Top,Wyoming,,B.1,0.1-2.3%,,95%CI,0.50%,8,,0.004993534
-Top,Wyoming,,B.1.1.519,0.3-13.3%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,2.10%,8,,0.020866722
-Top,Wyoming,,B.1.2,0.0-0.5%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.10%,8,,0.000998707
-Top,Wyoming,,B.1.526.2,0.9-4.7%,,95%CI,2.00%,8,,0.020384327
-VOC,California,,B.1.1.7,53.2-75.2%,,95%CI,65.00%,9,,0.650178075
-VOC,California,,B.1.351,0.1-1.0%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.30%,9,,0.003495151
-VOC,California,,B.1.427,0.4-6.0%,,95%CI,1.50%,9,,0.014705379
-VOC,California,,B.1.429,0.4-5.8%,,95%CI,1.60%,9,,0.01553593
-VOC,California,,B.1.617.2,2.6-3.8%,,95%CI,3.10%,9,,0.031443581
-VOC,California,,P.1,5.4-16.5%,,95%CI,9.60%,9,,0.095982134
-VOC,Georgia,,B.1.1.7,61.2-79.7%,,95%CI,71.40%,4,,0.713739038
-VOC,Georgia,,B.1.351,0.2-1.6%,,95%CI,0.60%,4,,0.005939328
-VOC,Georgia,,B.1.427,0.1-0.5%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.20%,4,,0.002160709
-VOC,Georgia,,B.1.429,0.0-0.3%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.10%,4,,0.000728319
-VOC,Georgia,,B.1.617.2,1.0-2.8%,,95%CI,1.70%,4,,0.016608033
-VOC,Georgia,,P.1,4.4-18.2%,,95%CI,9.20%,4,,0.092118844
-VOC,Indiana,,B.1.1.7,62.8-82.7%,,95%CI,74.00%,5,,0.739821732
-VOC,Indiana,,B.1.351,0.3-1.6%,,95%CI,0.70%,5,,0.006949803
-VOC,Indiana,,B.1.427,0.1-0.8%,,95%CI,0.20%,5,,0.00198338
-VOC,Indiana,,B.1.429,0.1-2.2%,,95%CI,0.50%,5,,0.004905836
-VOC,Indiana,,B.1.617.2,0.8-5.4%,,95%CI,2.10%,5,,0.02050468
-VOC,Indiana,,P.1,4.8-23.2%,,95%CI,10.90%,5,,0.109410666
-VOC,Maine,,B.1.1.7,45.0-58.3%,,95%CI,51.70%,1,,0.516566217
-VOC,Maine,,B.1.351,0.0-2.5%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.20%,1,,0.002437963
-VOC,Maine,,B.1.427,0.1-0.4%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.20%,1,,0.001519516
-VOC,Maine,,B.1.429,0.2-0.5%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.30%,1,,0.003411175
-VOC,Maine,,B.1.617.2,1.3-6.7%,,95%CI,3.00%,1,,0.029946772
-VOC,Maine,,P.1,5.6-21.2%,,95%CI,11.20%,1,,0.111712813
-VOC,Nebraska,,B.1.1.7,61.8-86.9%,,95%CI,76.60%,7,,0.766296923
-VOC,Nebraska,,B.1.351,0.0-2.6%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.30%,7,,0.002653957
-VOC,Nebraska,,B.1.427,0.0-2.6%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.30%,7,,0.002579028
-VOC,Nebraska,,B.1.429,0.0-2.6%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.30%,7,,0.002579028
-VOC,Nebraska,,B.1.617.2,1.2-34.2%,,95%CI,7.30%,7,,0.072998546
-VOC,Nebraska,,P.1,2.5-25.3%,,95%CI,8.60%,7,,0.085908905
-VOC,New York,,B.1.1.7,46.5-68.9%,,95%CI,58.10%,2,,0.581399262
-VOC,New York,,B.1.351,0.1-24.4%,,95%CI,1.60%,2,,0.016281305
-VOC,New York,,B.1.427,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,2,,0
-VOC,New York,,B.1.429,0.0-3.9%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.20%,2,,0.002168448
-VOC,New York,,B.1.617.2,0.7-12.2%,,95%CI,3.10%,2,,0.031243121
-VOC,New York,,P.1,2.8-15.6%,,95%CI,6.80%,2,,0.068360075
-VOC,Texas,,B.1.1.7,65.2-79.3%,,95%CI,72.90%,6,,0.728626966
-VOC,Texas,,B.1.351,0.2-0.8%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.40%,6,,0.003899564
-VOC,Texas,,B.1.427,0.1-0.9%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.30%,6,,0.003056468
-VOC,Texas,,B.1.429,0.1-2.9%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.60%,6,,0.006118757
-VOC,Texas,,B.1.617.2,1.4-9.6%,,95%CI,3.70%,6,,0.037473544
-VOC,Texas,,P.1,4.3-9.5%,,95%CI,6.40%,6,,0.06424588
-VOC,Virginia,,B.1.1.7,70.5-76.0%,,95%CI,73.40%,3,,0.733555436
-VOC,Virginia,,B.1.351,0.2-1.7%,,95%CI,0.70%,3,,0.006513878
-VOC,Virginia,,B.1.427,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,3,,0
-VOC,Virginia,,B.1.429,0.0-0.3%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.10%,3,,0.000610526
-VOC,Virginia,,B.1.617.2,0.5-3.9%,,95%CI,1.40%,3,,0.013869042
-VOC,Virginia,,P.1,1.6-6.3%,,95%CI,3.20%,3,,0.032100558
-VOC,Washington,,B.1.1.7,33.0-73.8%,,95%CI,54.10%,10,,0.540832222
-VOC,Washington,,B.1.351,0.6-2.9%,,95%CI,1.30%,10,,0.01349593
-VOC,Washington,,B.1.427,0.1-33.8%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,2.50%,10,,0.025317596
-VOC,Washington,,B.1.429,2.3-7.6%,,95%CI,4.20%,10,,0.042444006
-VOC,Washington,,B.1.617.2,0.2-17.9%,,95%CI,2.20%,10,,0.022493282
-VOC,Washington,,P.1,10.3-17.4%,,95%CI,13.40%,10,,0.134412199
-VOC,Wyoming,,B.1.1.7,56.8-84.3%,,95%CI,72.70%,8,,0.726879418
-VOC,Wyoming,,B.1.351,0.2-3.9%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.90%,8,,0.009343649
-VOC,Wyoming,,B.1.427,0.1-7.1%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.60%,8,,0.006413653
-VOC,Wyoming,,B.1.429,0.2-2.4%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.80%,8,,0.007531407
-VOC,Wyoming,,B.1.617.2,3.4-12.0%,,95%CI,6.40%,8,,0.064476691
-VOC,Wyoming,,P.1,0.8-19.0%,,95%CI,4.10%,8,,0.040986631
-VOI,California,,B.1.525,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,9,,0
-VOI,California,,B.1.526,3.0-5.3%,,95%CI,4.00%,9,,0.039887782
-VOI,California,,B.1.526.1,0.5-18.7%,,95%CI,3.30%,9,,0.033052113
-VOI,California,,B.1.617,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,9,,0
-VOI,California,,B.1.617.1,0.1-0.4%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.20%,9,,0.002052192
-VOI,California,,B.1.617.3,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,9,,0
-VOI,California,,P.2,0.0-0.5%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.10%,9,,0.00056823
-VOI,Georgia,,B.1.525,0.0-0.6%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.20%,4,,0.001626906
-VOI,Georgia,,B.1.526,3.3-11.6%,,95%CI,6.20%,4,,0.062274341
-VOI,Georgia,,B.1.526.1,1.1-2.4%,,95%CI,1.60%,4,,0.016490856
-VOI,Georgia,,B.1.617,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,4,,0
-VOI,Georgia,,B.1.617.1,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,4,,0
-VOI,Georgia,,B.1.617.3,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,4,,0
-VOI,Georgia,,P.2,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,4,,0
-VOI,Indiana,,B.1.525,0.0-0.5%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,5,,0.000450385
-VOI,Indiana,,B.1.526,1.5-4.4%,,95%CI,2.60%,5,,0.026116319
-VOI,Indiana,,B.1.526.1,1.2-6.1%,,95%CI,2.70%,5,,0.027014898
-VOI,Indiana,,B.1.617,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,5,,0
-VOI,Indiana,,B.1.617.1,0.0-0.9%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.10%,5,,0.001270488
-VOI,Indiana,,B.1.617.3,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,5,,0
-VOI,Indiana,,P.2,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,5,,0
-VOI,Maine,,B.1.525,0.2-4.4%,,95%CI,0.90%,1,,0.009355735
-VOI,Maine,,B.1.526,4.0-12.0%,,95%CI,7.00%,1,,0.070070177
-VOI,Maine,,B.1.526.1,2.5-20.5%,,95%CI,7.50%,1,,0.075280942
-VOI,Maine,,B.1.617,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,1,,0
-VOI,Maine,,B.1.617.1,0.0-0.3%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.10%,1,,0.000722847
-VOI,Maine,,B.1.617.3,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,1,,0
-VOI,Maine,,P.2,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,1,,0
-VOI,Nebraska,,B.1.525,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,7,,0
-VOI,Nebraska,,B.1.526,0.6-12.4%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,2.80%,7,,0.028188834
-VOI,Nebraska,,B.1.526.1,0.1-12.4%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,1.00%,7,,0.010160857
-VOI,Nebraska,,B.1.617,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,7,,0
-VOI,Nebraska,,B.1.617.1,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,7,,0
-VOI,Nebraska,,B.1.617.3,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,7,,0
-VOI,Nebraska,,P.2,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,7,,0
-VOI,New York,,B.1.525,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,2,,0
-VOI,New York,,B.1.526,7.2-24.6%,,95%CI,13.70%,2,,0.136869684
-VOI,New York,,B.1.526.1,0.7-6.4%,,95%CI,2.10%,2,,0.02070374
-VOI,New York,,B.1.617,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,2,,0
-VOI,New York,,B.1.617.1,0.0-4.7%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.10%,2,,0.000657878
-VOI,New York,,B.1.617.3,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,2,,0
-VOI,New York,,P.2,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,2,,0
-VOI,Texas,,B.1.525,0.0-0.3%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.10%,6,,0.000940628
-VOI,Texas,,B.1.526,1.1-3.2%,,95%CI,1.90%,6,,0.018621033
-VOI,Texas,,B.1.526.1,0.3-2.8%,,95%CI,0.90%,6,,0.009400547
-VOI,Texas,,B.1.617,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,6,,0
-VOI,Texas,,B.1.617.1,0.1-0.8%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.30%,6,,0.002585007
-VOI,Texas,,B.1.617.3,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,6,,0
-VOI,Texas,,P.2,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,6,,0
-VOI,Virginia,,B.1.525,0.0-2.0%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.30%,3,,0.002857754
-VOI,Virginia,,B.1.526,2.8-14.0%,,95%CI,6.40%,3,,0.064333975
-VOI,Virginia,,B.1.526.1,1.6-13.6%,,95%CI,4.80%,3,,0.047829702
-VOI,Virginia,,B.1.617,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,3,,0
-VOI,Virginia,,B.1.617.1,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,3,,0
-VOI,Virginia,,B.1.617.3,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,3,,0
-VOI,Virginia,,P.2,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,3,,0
-VOI,Washington,,B.1.525,0.0-1.1%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.10%,10,,0.001197216
-VOI,Washington,,B.1.526,0.9-12.0%,,95%CI,3.50%,10,,0.034712996
-VOI,Washington,,B.1.526.1,0.2-20.7%,,95%CI,2.40%,10,,0.024320588
-VOI,Washington,,B.1.617,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,10,,0
-VOI,Washington,,B.1.617.1,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,10,,0
-VOI,Washington,,B.1.617.3,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,10,,0
-VOI,Washington,,P.2,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,10,,0
-VOI,Wyoming,,B.1.525,0.0-0.2%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,8,,0.000371161
-VOI,Wyoming,,B.1.526,1.0-7.7%,,95%CI,2.80%,8,,0.02831438
-VOI,Wyoming,,B.1.526.1,0.5-5.1%,,95%CI,1.60%,8,,0.016247135
-VOI,Wyoming,,B.1.617,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,8,,0
-VOI,Wyoming,,B.1.617.1,0.1-2.0%,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.40%,8,,0.004453391
-VOI,Wyoming,,B.1.617.3,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,8,,0
-VOI,Wyoming,,P.2,NA,"â€     Fewer than 10 observations of this variant during the selected time/location context
-",95%CI,0.00%,8,,0
+Lineage Bin,Representative State1,State,Variant,95CI,LT_10msg,PICI_value,Share_pct,Hhs Region,Nowcast_msg,Share,Geometry (generated),Latitude (generated),Longitude (generated)
+Other,California,,Other,2.8-29.7%,,95%CI,10.00%,9,,0.099501856,,37.25,-119.75
+Other,Georgia,,Other,3.3-11.4%,,95%CI,6.20%,4,,0.06203999,,32.1598,-83.4715
+Other,Indiana,,Other,1.4-6.3%,,95%CI,3.00%,5,,0.029978493,,40,-86.25
+Other,Maine,,Other,6.0-10.9%,,95%CI,8.10%,1,,0.081112586,,45.5,-69.24
+Other,Nebraska,,Other,1.5-11.7%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,4.30%,7,,0.042724997,,41.5,-99.75
+Other,New York,,Other,5.9-21.4%,,95%CI,11.60%,2,,0.115513675,,43,-75.49
+Other,Texas,,Other,3.6-11.8%,,95%CI,6.60%,6,,0.06576217,,31.25,-99.25
+Other,Virginia,,Other,1.8-8.2%,,95%CI,3.90%,3,,0.039049935,,37.77,-78.24
+Other,Washington,,Other,1.8-9.8%,,95%CI,4.20%,10,,0.042498246,,47.5,-120.5
+Other,Wyoming,,Other,3.3-17.5%,,95%CI,7.80%,8,,0.078394368,,43,-107.5
+Top,California,,B.1,1.7-6.7%,,95%CI,3.40%,9,,0.033651263,,37.25,-119.75
+Top,California,,B.1.1.519,0.1-3.3%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.70%,9,,0.006582698,,37.25,-119.75
+Top,California,,B.1.2,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,9,,0,,37.25,-119.75
+Top,Georgia,,B.1,0.5-3.3%,,95%CI,1.30%,4,,0.013057924,,32.1598,-83.4715
+Top,Georgia,,B.1.1.519,0.0-0.3%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.10%,4,,0.000689435,,32.1598,-83.4715
+Top,Georgia,,B.1.2,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,4,,0,,32.1598,-83.4715
+Top,Indiana,,B.1,0.1-2.7%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.60%,5,,0.00631966,,40,-86.25
+Top,Indiana,,B.1.1.519,0.0-0.4%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,5,,0.000290923,,40,-86.25
+Top,Indiana,,B.1.2,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,5,,0,,40,-86.25
+Top,Maine,,B.1,0.4-6.5%,,95%CI,1.70%,1,,0.016869009,,45.5,-69.24
+Top,Maine,,B.1.1.519,0.0-5.8%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.40%,1,,0.004224103,,45.5,-69.24
+Top,Maine,,B.1.2,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,1,,0,,45.5,-69.24
+Top,Nebraska,,B.1,0.0-20.3%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.50%,7,,0.005061658,,41.5,-99.75
+Top,Nebraska,,B.1.1.519,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,7,,0,,41.5,-99.75
+Top,Nebraska,,B.1.2,0.1-3.1%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.70%,7,,0.006805549,,41.5,-99.75
+Top,New York,,B.1,1.1-6.6%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,2.70%,2,,0.026902614,,43,-75.49
+Top,New York,,B.1.1.519,0.0-4.1%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.20%,2,,0.001564053,,43,-75.49
+Top,New York,,B.1.2,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,2,,0,,43,-75.49
+Top,Texas,,B.1,1.7-9.9%,,95%CI,4.20%,6,,0.04182969,,31.25,-99.25
+Top,Texas,,B.1.1.519,0.5-2.7%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,1.10%,6,,0.0111956,,31.25,-99.25
+Top,Texas,,B.1.2,0.0-0.2%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.10%,6,,0.000775649,,31.25,-99.25
+Top,Virginia,,B.1,0.5-4.7%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,1.50%,3,,0.015260649,,37.77,-78.24
+Top,Virginia,,B.1.1.519,0.1-2.6%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.50%,3,,0.00477617,,37.77,-78.24
+Top,Virginia,,B.1.2,0.0-1.6%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.10%,3,,0.001206023,,37.77,-78.24
+Top,Washington,,B.1,0.5-4.3%,,95%CI,1.40%,10,,0.014447818,,47.5,-120.5
+Top,Washington,,B.1.1.519,0.6-9.5%,,95%CI,2.50%,10,,0.025314745,,47.5,-120.5
+Top,Washington,,B.1.2,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,10,,0,,47.5,-120.5
+Top,Wyoming,,B.1,1.0-3.3%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,1.80%,8,,0.017966174,,43,-107.5
+Top,Wyoming,,B.1.1.519,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,8,,0,,43,-107.5
+Top,Wyoming,,B.1.2,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,8,,0,,43,-107.5
+VOC,California,,B.1.1.7,38.8-63.4%,,95%CI,51.20%,9,,0.512044132,,37.25,-119.75
+VOC,California,,B.1.351,0.0-1.1%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.20%,9,,0.00186937,,37.25,-119.75
+VOC,California,,B.1.427,0.5-3.9%,,95%CI,1.40%,9,,0.014006637,,37.25,-119.75
+VOC,California,,B.1.429,0.3-0.7%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.40%,9,,0.004286765,,37.25,-119.75
+VOC,California,,B.1.617.2,7.5-19.7%,,95%CI,12.40%,9,,0.123634085,,37.25,-119.75
+VOC,California,,P.1,10.2-21.0%,,95%CI,14.80%,9,,0.147767574,,37.25,-119.75
+VOC,Georgia,,B.1.1.7,48.2-76.1%,,95%CI,63.30%,4,,0.632876813,,32.1598,-83.4715
+VOC,Georgia,,B.1.351,0.0-1.7%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.30%,4,,0.002844139,,32.1598,-83.4715
+VOC,Georgia,,B.1.427,0.1-1.2%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.30%,4,,0.002961362,,32.1598,-83.4715
+VOC,Georgia,,B.1.429,0.0-0.6%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.10%,4,,0.001378869,,32.1598,-83.4715
+VOC,Georgia,,B.1.617.2,1.9-7.9%,,95%CI,3.90%,4,,0.039339624,,32.1598,-83.4715
+VOC,Georgia,,P.1,8.8-23.0%,,95%CI,14.50%,4,,0.145290583,,32.1598,-83.4715
+VOC,Indiana,,B.1.1.7,62.5-80.3%,,95%CI,72.30%,5,,0.722967386,,40,-86.25
+VOC,Indiana,,B.1.351,0.0-6.7%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.60%,5,,0.005882677,,40,-86.25
+VOC,Indiana,,B.1.427,0.0-0.9%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.10%,5,,0.000783946,,40,-86.25
+VOC,Indiana,,B.1.429,0.0-0.4%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,5,,0.000290923,,40,-86.25
+VOC,Indiana,,B.1.617.2,1.9-16.0%,,95%CI,5.80%,5,,0.0578936,,40,-86.25
+VOC,Indiana,,P.1,6.8-16.9%,,95%CI,10.80%,5,,0.108416095,,40,-86.25
+VOC,Maine,,B.1.1.7,32.4-53.4%,,95%CI,42.60%,1,,0.425551921,,45.5,-69.24
+VOC,Maine,,B.1.351,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,1,,0,,45.5,-69.24
+VOC,Maine,,B.1.427,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,1,,0,,45.5,-69.24
+VOC,Maine,,B.1.429,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,1,,0,,45.5,-69.24
+VOC,Maine,,B.1.617.2,2.2-16.9%,,95%CI,6.30%,1,,0.063274108,,45.5,-69.24
+VOC,Maine,,P.1,6.8-26.8%,,95%CI,14.00%,1,,0.140106097,,45.5,-69.24
+VOC,Nebraska,,B.1.1.7,25.4-74.3%,,95%CI,49.90%,7,,0.498586804,,41.5,-99.75
+VOC,Nebraska,,B.1.351,0.1-1.7%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.40%,7,,0.003635594,,41.5,-99.75
+VOC,Nebraska,,B.1.427,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,7,,0,,41.5,-99.75
+VOC,Nebraska,,B.1.429,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,7,,0,,41.5,-99.75
+VOC,Nebraska,,B.1.617.2,12.6-66.4%,,95%CI,34.80%,7,,0.347919643,,41.5,-99.75
+VOC,Nebraska,,P.1,1.3-38.7%,,95%CI,8.50%,7,,0.084824622,,41.5,-99.75
+VOC,New York,,B.1.1.7,40.2-60.2%,,95%CI,50.20%,2,,0.502399385,,43,-75.49
+VOC,New York,,B.1.351,0.0-2.7%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.40%,2,,0.003682115,,43,-75.49
+VOC,New York,,B.1.427,0.0-2.7%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.40%,2,,0.003682115,,43,-75.49
+VOC,New York,,B.1.429,0.0-4.1%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.20%,2,,0.001564053,,43,-75.49
+VOC,New York,,B.1.617.2,4.5-20.0%,,95%CI,9.80%,2,,0.098117322,,43,-75.49
+VOC,New York,,P.1,3.1-17.3%,,95%CI,7.60%,2,,0.075939499,,43,-75.49
+VOC,Texas,,B.1.1.7,52.0-71.3%,,95%CI,62.10%,6,,0.62143749,,31.25,-99.25
+VOC,Texas,,B.1.351,0.0-0.4%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.10%,6,,0.001260258,,31.25,-99.25
+VOC,Texas,,B.1.427,0.0-0.2%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.10%,6,,0.000775649,,31.25,-99.25
+VOC,Texas,,B.1.429,0.0-0.2%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.10%,6,,0.000775649,,31.25,-99.25
+VOC,Texas,,B.1.617.2,7.5-20.8%,,95%CI,12.70%,6,,0.126966298,,31.25,-99.25
+VOC,Texas,,P.1,5.4-13.4%,,95%CI,8.60%,6,,0.08638531,,31.25,-99.25
+VOC,Virginia,,B.1.1.7,59.1-73.3%,,95%CI,66.50%,3,,0.665410221,,37.77,-78.24
+VOC,Virginia,,B.1.351,0.0-1.8%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.30%,3,,0.002537373,,37.77,-78.24
+VOC,Virginia,,B.1.427,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,3,,0,,37.77,-78.24
+VOC,Virginia,,B.1.429,0.0-1.3%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.20%,3,,0.002388085,,37.77,-78.24
+VOC,Virginia,,B.1.617.2,1.6-5.0%,,95%CI,2.80%,3,,0.02843741,,37.77,-78.24
+VOC,Virginia,,P.1,0.8-14.5%,,95%CI,3.50%,3,,0.035379548,,37.77,-78.24
+VOC,Washington,,B.1.1.7,47.7-52.9%,,95%CI,50.30%,10,,0.503418326,,47.5,-120.5
+VOC,Washington,,B.1.351,0.2-8.9%,,95%CI,1.40%,10,,0.013731131,,47.5,-120.5
+VOC,Washington,,B.1.427,0.0-13.4%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.90%,10,,0.008654909,,47.5,-120.5
+VOC,Washington,,B.1.429,1.2-5.4%,,95%CI,2.60%,10,,0.025852628,,47.5,-120.5
+VOC,Washington,,B.1.617.2,0.8-26.2%,,95%CI,5.00%,10,,0.050422598,,47.5,-120.5
+VOC,Washington,,P.1,18.8-27.6%,,95%CI,22.90%,10,,0.229185477,,47.5,-120.5
+VOC,Wyoming,,B.1.1.7,33.1-65.9%,,95%CI,49.40%,8,,0.494263023,,43,-107.5
+VOC,Wyoming,,B.1.351,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,8,,0,,43,-107.5
+VOC,Wyoming,,B.1.427,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,8,,0,,43,-107.5
+VOC,Wyoming,,B.1.429,0.0-5.2%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.50%,8,,0.004865115,,43,-107.5
+VOC,Wyoming,,B.1.617.2,16.1-53.0%,,95%CI,31.70%,8,,0.317334384,,43,-107.5
+VOC,Wyoming,,P.1,0.6-6.5%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,1.90%,8,,0.019293454,,43,-107.5
+VOI,California,,B.1.525,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,9,,0,,37.25,-119.75
+VOI,California,,B.1.526,2.3-12.5%,,95%CI,5.50%,9,,0.055185527,,37.25,-119.75
+VOI,California,,B.1.617,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,9,,0,,37.25,-119.75
+VOI,California,,B.1.617.1,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,9,,0,,37.25,-119.75
+VOI,California,,B.1.617.3,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,9,,0,,37.25,-119.75
+VOI,California,,P.2,0.0-3.0%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.10%,9,,0.001470127,,37.25,-119.75
+VOI,Georgia,,B.1.525,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,4,,0,,32.1598,-83.4715
+VOI,Georgia,,B.1.526,6.7-14.6%,,95%CI,10.00%,4,,0.099521279,,32.1598,-83.4715
+VOI,Georgia,,B.1.617,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,4,,0,,32.1598,-83.4715
+VOI,Georgia,,B.1.617.1,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,4,,0,,32.1598,-83.4715
+VOI,Georgia,,B.1.617.3,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,4,,0,,32.1598,-83.4715
+VOI,Georgia,,P.2,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,4,,0,,32.1598,-83.4715
+VOI,Indiana,,B.1.525,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,5,,0,,40,-86.25
+VOI,Indiana,,B.1.526,2.7-16.0%,,95%CI,6.70%,5,,0.067176297,,40,-86.25
+VOI,Indiana,,B.1.617,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,5,,0,,40,-86.25
+VOI,Indiana,,B.1.617.1,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,5,,0,,40,-86.25
+VOI,Indiana,,B.1.617.3,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,5,,0,,40,-86.25
+VOI,Indiana,,P.2,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,5,,0,,40,-86.25
+VOI,Maine,,B.1.525,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,1,,0,,45.5,-69.24
+VOI,Maine,,B.1.526,10.5-53.4%,,95%CI,26.90%,1,,0.268862158,,45.5,-69.24
+VOI,Maine,,B.1.617,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,1,,0,,45.5,-69.24
+VOI,Maine,,B.1.617.1,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,1,,0,,45.5,-69.24
+VOI,Maine,,B.1.617.3,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,1,,0,,45.5,-69.24
+VOI,Maine,,P.2,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,1,,0,,45.5,-69.24
+VOI,Nebraska,,B.1.525,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,7,,0,,41.5,-99.75
+VOI,Nebraska,,B.1.526,0.2-4.8%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,1.00%,7,,0.010441143,,41.5,-99.75
+VOI,Nebraska,,B.1.617,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,7,,0,,41.5,-99.75
+VOI,Nebraska,,B.1.617.1,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,7,,0,,41.5,-99.75
+VOI,Nebraska,,B.1.617.3,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,7,,0,,41.5,-99.75
+VOI,Nebraska,,P.2,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,7,,0,,41.5,-99.75
+VOI,New York,,B.1.525,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,2,,0,,43,-75.49
+VOI,New York,,B.1.526,13.0-22.0%,,95%CI,17.10%,2,,0.170635179,,43,-75.49
+VOI,New York,,B.1.617,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,2,,0,,43,-75.49
+VOI,New York,,B.1.617.1,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,2,,0,,43,-75.49
+VOI,New York,,B.1.617.3,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,2,,0,,43,-75.49
+VOI,New York,,P.2,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,2,,0,,43,-75.49
+VOI,Texas,,B.1.525,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,6,,0,,31.25,-99.25
+VOI,Texas,,B.1.526,3.2-5.4%,,95%CI,4.10%,6,,0.041284949,,31.25,-99.25
+VOI,Texas,,B.1.617,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,6,,0,,31.25,-99.25
+VOI,Texas,,B.1.617.1,0.0-0.5%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.20%,6,,0.001551297,,31.25,-99.25
+VOI,Texas,,B.1.617.3,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,6,,0,,31.25,-99.25
+VOI,Texas,,P.2,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,6,,0,,31.25,-99.25
+VOI,Virginia,,B.1.525,0.0-3.2%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.20%,3,,0.002412047,,37.77,-78.24
+VOI,Virginia,,B.1.526,10.6-35.5%,,95%CI,20.30%,3,,0.203142539,,37.77,-78.24
+VOI,Virginia,,B.1.617,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,3,,0,,37.77,-78.24
+VOI,Virginia,,B.1.617.1,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,3,,0,,37.77,-78.24
+VOI,Virginia,,B.1.617.3,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,3,,0,,37.77,-78.24
+VOI,Virginia,,P.2,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,3,,0,,37.77,-78.24
+VOI,Washington,,B.1.525,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,10,,0,,47.5,-120.5
+VOI,Washington,,B.1.526,3.4-20.5%,,95%CI,8.60%,10,,0.086474128,,47.5,-120.5
+VOI,Washington,,B.1.617,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,10,,0,,47.5,-120.5
+VOI,Washington,,B.1.617.1,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,10,,0,,47.5,-120.5
+VOI,Washington,,B.1.617.3,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,10,,0,,47.5,-120.5
+VOI,Washington,,P.2,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,10,,0,,47.5,-120.5
+VOI,Wyoming,,B.1.525,0.0-14.1%,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.70%,8,,0.007418846,,43,-107.5
+VOI,Wyoming,,B.1.526,2.1-16.0%,,95%CI,6.00%,8,,0.060464621,,43,-107.5
+VOI,Wyoming,,B.1.617,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,8,,0,,43,-107.5
+VOI,Wyoming,,B.1.617.1,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,8,,0,,43,-107.5
+VOI,Wyoming,,B.1.617.3,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,8,,0,,43,-107.5
+VOI,Wyoming,,P.2,NA,"     Fewer than 10 observations of this variant during the selected time/location context
+",95%CI,0.00%,8,,0,,43,-107.5
